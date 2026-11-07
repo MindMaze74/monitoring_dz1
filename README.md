@@ -99,7 +99,7 @@ P.S.: если при запуске некоторые контейнеры б�
 После настройке перезапустите telegraf, обновите веб интерфейс и приведите скриншотом список `measurments` в 
 веб-интерфейсе базы telegraf.autogen . Там должны появиться метрики, связанные с docker.
 
-```
+
 ![скриншот 3](https://github.com/MindMaze74/monitoring_dz1/blob/main/img/3.png)
 
 ![скриншот 4](https://github.com/MindMaze74/monitoring_dz1/blob/main/img/4.png)
